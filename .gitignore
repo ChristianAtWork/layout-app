@@ -1,6 +1,8 @@
 # See https://www.dartlang.org/guides/libraries/private-files
 
 # Files and directories created by pub
+.idea
+.DS_Store
 .dart_tool/
 .packages
 build/
